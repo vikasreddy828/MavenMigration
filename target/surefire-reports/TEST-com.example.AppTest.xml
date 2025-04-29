@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.034" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.009" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/home/vinay/Desktop/MyMavenApp2/target/test-classes:/home/vinay/Desktop/MyMavenApp2/target/classes:/home/vinay/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="java.class.path" value="/home/manojn/Desktop/mavenmigration-master/target/test-classes:/home/manojn/Desktop/mavenmigration-master/target/classes:/home/manojn/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="java.vm.vendor" value="Ubuntu"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://ubuntu.com/"/>
@@ -16,36 +16,36 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/vinay/Desktop/MyMavenApp2/target/surefire/surefirebooter15664183263205142760.jar /home/vinay/Desktop/MyMavenApp2/target/surefire 2025-03-13T12-40-54_095-jvmRun1 surefire9534913465621610431tmp surefire_03132141887328829385tmp"/>
+    <property name="sun.java.command" value="/home/manojn/Desktop/mavenmigration-master/target/surefire/surefirebooter18047167485567056369.jar /home/manojn/Desktop/mavenmigration-master/target/surefire 2025-04-29T14-45-13_747-jvmRun1 surefire13634735721867099656tmp surefire_017601370959732990919tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/home/vinay/Desktop/MyMavenApp2/target/test-classes:/home/vinay/Desktop/MyMavenApp2/target/classes:/home/vinay/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="surefire.test.class.path" value="/home/manojn/Desktop/mavenmigration-master/target/test-classes:/home/manojn/Desktop/mavenmigration-master/target/classes:/home/manojn/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="user.home" value="/home/vinay"/>
+    <property name="user.home" value="/home/manojn"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.version.date" value="2025-01-21"/>
     <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/home/vinay/Desktop/MyMavenApp2"/>
-    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="basedir" value="/home/manojn/Desktop/mavenmigration-master"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/vinay/Desktop/MyMavenApp2/target/surefire/surefirebooter15664183263205142760.jar"/>
+    <property name="surefire.real.class.path" value="/home/manojn/Desktop/mavenmigration-master/target/surefire/surefirebooter18047167485567056369.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.26+4-post-Ubuntu-1ubuntu124.04"/>
-    <property name="user.name" value="vinay"/>
+    <property name="user.name" value="manojn"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="6.11.0-17-generic"/>
+    <property name="os.version" value="6.11.0-24-generic"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
-    <property name="localRepository" value="/home/vinay/.m2/repository"/>
+    <property name="localRepository" value="/home/manojn/.m2/repository"/>
     <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/>
     <property name="java.io.tmpdir" value="/tmp"/>
     <property name="java.version" value="11.0.26"/>
-    <property name="user.dir" value="/home/vinay/Desktop/MyMavenApp2"/>
+    <property name="user.dir" value="/home/manojn/Desktop/mavenmigration-master"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testApp" classname="com.example.AppTest" time="0.007"/>
+  <testcase name="testApp" classname="com.example.AppTest" time="0.001"/>
 </testsuite>
